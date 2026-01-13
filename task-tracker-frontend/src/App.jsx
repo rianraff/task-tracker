@@ -95,6 +95,7 @@ function App() {
           </li>
         ))}
       </ul>
+      <footer>© 2026 Task Tracker Inc.</footer> {/* Add this line */}
     </div>
   )
 }
