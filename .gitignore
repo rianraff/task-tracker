@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Environment variables (Safety first!)
+.env
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
