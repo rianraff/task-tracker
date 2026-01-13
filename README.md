@@ -1,2 +1,2 @@
-# Professional Task Tracker v1.0
+# SUPER AWESOME Task Tracker Project
 This project tracks tasks using Node and React.
