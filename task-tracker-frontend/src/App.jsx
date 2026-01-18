@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   const [tasks, setTasks] = useState([])
   const [newTask, setNewTask] = useState('')
-  const API_URL = 'http://localhost:3000/tasks'
+  const API_URL = '/api/tasks'
 
   // 1. Fetch Tasks (GET)
   const fetchTasks = async () => {
